@@ -1,0 +1,14 @@
+.external{
+   border: 2px solid red;
+   background-color: antiquewhite; 
+   padding: 10px;
+   margin: 10px;
+}
+.external li{
+    color: brown;
+}
+.external h3{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+}
