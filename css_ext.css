@@ -50,3 +50,24 @@ div p{
     cursor: pointer;
     transition: 0.2s ease-in-out;
 }
+.measurements{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.measurements div{
+    padding: 10px;
+    margin: 20px;
+    border: 2px groove red;
+}
+.measurements .dimension{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.headings:hover{
+    color:royalblue;
+}
